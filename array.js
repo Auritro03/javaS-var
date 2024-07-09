@@ -1,1 +1,1 @@
-asdawadsasdasd abwda 
+Console.Log(6 != 6);
